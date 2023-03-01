@@ -9,7 +9,7 @@
 
 <!-- TO DO: add more details later. -->
 
-Welcome. 
+<center>Welcome.</center>
 <img src="https://static.wikia.nocookie.net/f60e161a-0657-406e-b024-8bf904c16dd2/scale-to-width/755" alt="Aizen: Welcome to My Soul Society" />
 
 ```mermaid
