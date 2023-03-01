@@ -9,7 +9,8 @@
 
 <!-- TO DO: add more details later. -->
 
-Hi, I'm Michelle. 
+Welcome. 
+<img src="https://static.wikia.nocookie.net/f60e161a-0657-406e-b024-8bf904c16dd2/scale-to-width/755" alt="Aizen: Welcome to My Soul Society" />
 
 ```mermaid
 graph LR;
@@ -19,13 +20,13 @@ graph LR;
 ```
 
 <details>
-<summary>My Top 3 Topics:</summary>
+<summary>My Top 3 Anime:</summary>
 
 | Rank | Topics |
 |-----:|-----------|
-|     1| Markdown |
-|     2| GitHub |
-|     3| Git |
+|     1| Bleach |
+|     2| Naruto |
+|     3| Attack On Titan |
 </details>
 
 
