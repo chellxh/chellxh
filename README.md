@@ -12,16 +12,16 @@ I am a passionate Full Stack <strong>Software Developer</strong> with dreams of 
 
 My coding skills are developing through an <strong>intensive</strong> Fellowship at Pursuit, a NYC-based 🔥 <em>Full Stack Web Development Program</em> 🔥 with a 9% acceptance rate. When I'm not studying or reading up on coding resources, I like to spend time with my husband and 2 children and watch movies & anime.
 
-### Add me on LinkedIn!
+#### Add me on LinkedIn!
 
 <a href="https://www.linkedin.com/in/michelle-h-92673b238/">Michelle Harley</a>
 
-|-----:|-----------|
+
 - 🔭 I'm currently working on an Anime website (Anime Quotes) that stars my TOP 8 characters in Anime. 
 - 🪄 I'm currently working on <strong>HTML</strong>, <strong>CSS</strong>, <strong>API's</strong>, and how to incorporate the using <strong>JavaScript</strong>.
 - 💬 Ask me about HTML, Cooking, or Anime. 
 - ⚡️ Fun fact: I love playing Fortnite.
-|-----:|-----------|
+
 <!--
 **chellxh/chellxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
