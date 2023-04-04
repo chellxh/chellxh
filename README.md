@@ -12,6 +12,8 @@ I am a passionate Full Stack <strong>Software Developer</strong> with dreams of 
 
 My coding skills are developing through an <strong>intensive</strong> Fellowship at Pursuit, a NYC-based 🔥 <em>Full Stack Web Development Program</em> 🔥 with a 9% acceptance rate. When I'm not studying or reading up on coding resources, I like to spend time with my husband and 2 children and watch movies & anime.
 
+
+
 #### Add me on LinkedIn!
 
 <a href="https://www.linkedin.com/in/michelle-h-92673b238/">Michelle Harley</a>
