@@ -12,6 +12,7 @@ I am a passionate Full Stack <strong>Software Developer</strong> with dreams of 
 
 My coding skills are developing through an <strong>intensive</strong> Fellowship at Pursuit, a NYC-based 🔥 <em>Full Stack Web Development Program</em> 🔥 with a 9% acceptance rate. When I'm not studying or reading up on coding resources, I like to spend time with my husband and 2 children and watch movies & anime.
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chellxh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 #### Add me on LinkedIn!
@@ -23,5 +24,3 @@ My coding skills are developing through an <strong>intensive</strong> Fellowship
 - 🪄 I'm currently learning <strong>HTML</strong>, <strong>CSS</strong>, <strong>API's</strong>, and how to incorporate the using <strong>JavaScript</strong>.
 - 💬 Ask me about HTML, Cooking, or Anime. 
 - ⚡️ Fun fact: I love playing Fortnite.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chellxh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
