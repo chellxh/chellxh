@@ -23,7 +23,7 @@ My coding skills are developing through an <strong>intensive</strong> Fellowship
 
 
 - 🔭 I'm currently working on adding React to an Anime website (Anime Quotes) I've created that stars my TOP 8 characters in Anime. 
-- 🪄 I'm currently learning <strong>React</strong> & how to tie <strong>HTML</strong>, <strong>CSS</strong> & <strong>JavaScript</strong> together.
+- 🪄 I'm currently learning <strong>React</strong> & how to tie it together using <strong>HTML</strong>, <strong>CSS</strong> & <strong>JavaScript</strong>.
 - 💬 Ask me about Anime. 
 - ⚡️ Fun fact: I love playing Fortnite.
 
