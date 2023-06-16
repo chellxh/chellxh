@@ -14,7 +14,7 @@
 
 My coding skills are developing through an <strong>intensive</strong> Fellowship at Pursuit, a NYC-based 🔥 <em>Full Stack Web Development Program</em> 🔥 with a 9% acceptance rate. When I'm not studying or reading up on coding resources, I like to spend time with my husband and 2 children and watch movies & anime.
 
-<img height="100%" src="https://github-readme-stats.vercel.app/api?username=chellxh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
+</p>
 
 
 #### Add me on LinkedIn!
