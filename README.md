@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif">
  <source media="(prefers-color-scheme: light)" srcset="https://t3.ftcdn.net/jpg/01/76/98/40/360_F_176984023_8I82qQPmKn8TqNAZXIYMCSiwccoUiPBg.jpg">
- <img alt="Welcome image with lights around white lights around the edges" src="https://media.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif" width="100%">
+ <img alt="Welcome image with lights around white lights around the edges" src="https://media.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif" height="200px" width="100%">
 </picture>
 
 <img src="assets/github.png" alt="Michelle Harley's Github"/>
