@@ -22,8 +22,8 @@ My coding skills are developing through an <strong>intensive</strong> Fellowship
 <p style="text-align: center;"><a href="https://www.linkedin.com/in/michelle-h-92673b238/">Michelle Harley</a></p>
 
 
-- 🔭 I'm currently working on adding React to an Anime website (Anime Quotes) I've created that stars my TOP 8 characters in Anime. 
-- 🪄 I'm currently learning <strong>React</strong> & how to tie it together using <strong>HTML</strong>, <strong>CSS</strong> & <strong>JavaScript</strong>.
+- 🔭 I'm currently working on my Full-Stack Portfolio Project (animexquotes). 
+- 🪄 I'm currently learning DSA.
 - 💬 Ask me about Anime. 
 - ⚡️ Fun fact: I love playing Fortnite.
 
