@@ -22,8 +22,8 @@ My coding skills are developing through an <strong>intensive</strong> Fellowship
 <p style="text-align: center;"><a href="https://www.linkedin.com/in/michelle-h-92673b238/">Michelle Harley</a></p>
 
 
-- 🔭 I'm currently working on my Full-Stack Portfolio Project (animexquotes). 
-- 🪄 I'm currently learning DSA.
+- 🔭 I'm currently working on a new Full-Stack Portfolio. 
+- 🪄 I'm currently learning Python.
 - 💬 Ask me about Anime. 
 - ⚡️ Fun fact: I love playing Fortnite.
 
